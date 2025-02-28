@@ -130,7 +130,7 @@ MIT License © 2025 ruveydayilmaz
 ---
 
 ## Demo
-![Screenshot](https://github.com/user-attachments/assets/59e62d8d-2653-4cba-b59f-389869d18aad)
+![Screenshot 2025-02-27 142626](https://github.com/user-attachments/assets/3d97af6c-3ce7-4378-836d-f2c5d38ebe26)
 **You can check out the demo here: [Demo](test-delta-ruddy-56.vercel.app). However, as shown in the image above, it is not always reliable and may not work consistently. For the best experience, please run the project locally.**  
 
-https://github.com/user-attachments/assets/90936e24-b2f3-4cd8-8458-4e1a5eefe603
+https://github.com/user-attachments/assets/43ac977e-b7d8-431b-86fc-c8b16447b4ae
