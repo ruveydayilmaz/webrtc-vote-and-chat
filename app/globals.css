@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+audio::-webkit-media-controls-panel {
+  background-color: #a1a1aa;
+}
+
+audio::-webkit-media-controls-play-button {
+  background-color: #3b82f6;
+  border-radius: 50%;
+}
