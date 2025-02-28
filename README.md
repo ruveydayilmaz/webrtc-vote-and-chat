@@ -25,8 +25,8 @@ tsconfig.server.json # TypeScript configuration specific to the server-side buil
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/webrtc-voting.git
-cd webrtc-voting
+git clone https://github.com/ruveydayilmaz/webrtc-vote-and-chat.git
+cd webrtc-vote-and-chat
 ```
 
 ### **2️⃣ Install Dependencies**
